@@ -1,0 +1,359 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+    
+
+.coollll{
+    width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+}
+.container {
+    
+    width: 800px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+
+main {
+    min-height: 500px;
+    
+}
+
+
+  
+.flex {
+    
+    
+   
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    gap: 1.5rem;
+    list-style: none;
+}
+
+.left {
+    background-color: white;
+    min-height: 100px;
+    flex: 2;
+    border: gray;
+    width: 100px;
+    background-color: rgb(9, 9, 193);
+    max-height: 50px;
+    position: relative;
+    bottom: 268px;
+    
+}
+
+.Jane-img { 
+    width: 300px;
+    
+    padding: 50px;
+    margin: 20px;
+    max-width: 50px;
+    max-height: 20px;
+    margin-top: 30px;
+}
+
+.right {
+    background-color:white;
+    
+    flex: 1;
+    align-self: flex-start;
+}
+
+.card {
+
+    background-color: white;
+    min-height: 250px;
+    margin-bottom: 1.5rem;
+    border-style: solid;
+    border-color: gray;
+}
+
+.text {
+    line-height: 50px;
+
+    margin-left: 45px;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+H1 {
+    margin-left: 45px;
+}
+
+.jane-m {
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.map-marker {
+    max-height: 20px;
+
+}
+
+.text1 {
+    line-height: 20px;
+    margin-left: 45px;
+    font-size: large;
+}
+
+.gear {
+    position: static;
+    max-height: 20px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.edit {
+    float: right;
+    margin-right: 360px;
+    text-decoration: underline;
+    color: rgb(18, 119, 182);
+    font-size: 15px;
+    padding: 5px;
+    
+}
+
+.h4 {
+   position: relative;
+   bottom: 30px;
+    color: white;
+    margin-left: 45px;
+    font-size: larger;
+}
+.kid {
+    width: 512px;
+    border: 20px solid black;
+    margin: 0px;
+    position: relative;
+   
+}
+.coding {
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 45px;
+}
+
+.h5 {
+    color: gray;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.triple {
+    font-size: large;
+    margin-top: 10px;
+}
+
+.cool {
+
+    padding: 5;
+    margin: 20;
+    height: 50px;
+    background-color: black;
+    border-style: solid;
+}
+
+.move {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    background: #fff;
+    border: 3px solid #000;
+    color: #000;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    top: 5px;
+    padding: 5px;
+}
+
+.cooll {
+    height: 50px;
+    background-color: black;
+    bottom: 275px;
+    position: relative;
+    border-style: solid;
+    color: #000;
+    position: relative;
+    
+}
+
+.context {
+    position: relative;
+    left: 65px;
+    bottom: 20px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.todd-s {
+  border-radius: 50%;  
+  max-width: 40px;
+  max-height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.phil-s {
+    border-radius: 50%;  
+    max-width: 40px;
+    max-height: 40px;  
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}
+
+.funer {
+    position: relative;
+    bottom: 33px;
+    left: 65px;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+
+.funest {
+    position: relative;
+    bottom: 33px;
+    left: 65px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.blox {
+    position: relative;
+    bottom: 59px;
+    left: 150px;
+    font-weight: bolder;
+    font-size: larger;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.bopp{
+    position: relative;
+    bottom: 59px;
+    left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.blo{
+    position: relative;
+    bottom: 59px;
+    left: 155px;
+    font-weight: bolder;
+    font-size: larger;
+    max-width: 30px;
+    max-height: 30px;
+}
+.bop {
+    position: relative;
+    bottom: 59px;
+    left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.yoo {
+    border-radius: 50%;
+    width: 60px;
+    height: 34px;
+    background: #fff;
+    border: 3px solid #000;
+    color: #000;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    top: 5px;
+    padding: 5px;
+}
+
+.no{
+    position: relative;
+    left: 90px;
+    bottom: 24px;
+    font-weight: bolder;
+    font-size: larger;
+    color: #fff;
+}
+.oh-s {
+    border-radius: 50%; 
+    max-width: 35px;
+    max-height: 35px;
+    margin-top: -5px;
+    margin-left: 10px
+  
+    
+}
+
+.oh-i {
+    border-radius: 50%; 
+    max-width: 35px;
+    max-height: 35px;
+    margin-top: -10px;
+    margin-left: 5px
+}
+
+.oh-r{
+    border-radius: 50%; 
+    max-width: 35px;
+    max-height: 35px;
+    margin-top: -10px;
+    margin-left: 5px;
+
+}
+
+.oh-t {
+    border-radius: 50%; 
+    max-width: 35px;
+    max-height: 35px;
+    margin-top: -15px;
+    margin-left: 10px
+    
+}
+
+.oh-ss {
+  position: relative;
+  left: 65px;
+  bottom: 30px;
+  font-weight: bolder;
+  font-size: large;
+}
+.oh-ii {
+    position: relative;
+    left: 65px;
+    bottom: 35px;
+    font-weight: bolder;
+    font-size: large; 
+}
+.oh-rr {
+    position: relative;
+    left: 65px;
+    bottom: 35px;
+    font-weight: bolder;
+    font-size: large; 
+}
+.oh-tt {
+    position: relative;
+    left: 65px;
+    bottom: 35px;
+    font-weight: bolder;
+    font-size: large; 
+}
